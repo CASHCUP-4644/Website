@@ -1,0 +1,83 @@
+# iPhone Repair Website – Design Brainstorm
+
+<response>
+<idea>
+**Design Movement:** Neo-Brutalism meets Industrial Tech
+**Core Principles:**
+- Raw, high-contrast typography with oversized numbers and labels
+- Asymmetric card layouts with hard drop shadows and visible borders
+- Bold use of black and electric yellow as primary palette
+
+**Color Philosophy:** Black (#0A0A0A) base with electric yellow (#F5C518) accents — communicates urgency, precision, and confidence. White panels create breathing room.
+
+**Layout Paradigm:** Offset grid with staggered cards; hero section splits diagonally between dark and light halves. Services laid out in a 3-column asymmetric masonry.
+
+**Signature Elements:**
+- Hard-shadow cards (no blur, solid offset shadow)
+- Large bold step numbers for process sections
+- Diagonal section dividers
+
+**Interaction Philosophy:** Hover states snap rather than fade — borders thicken, shadows shift. Feels mechanical and deliberate.
+
+**Animation:** Entrance animations use translate-Y with sharp easing (cubic-bezier 0.16, 1, 0.3, 1). No bouncy springs.
+
+**Typography System:** "Space Grotesk" for headings (bold, geometric), "IBM Plex Mono" for labels/prices (technical feel), system sans for body.
+</idea>
+<probability>0.08</probability>
+</response>
+
+<response>
+<idea>
+**Design Movement:** Premium Apple-Adjacent Minimalism
+**Core Principles:**
+- Generous whitespace with a strict 8pt grid
+- Soft neutral palette with a single electric-blue accent
+- Photography-forward with full-bleed device imagery
+
+**Color Philosophy:** Off-white (#F8F8F6) background, charcoal (#1C1C1E) text, electric blue (#0A84FF) for CTAs — mirrors Apple's own design language to build trust with iPhone users.
+
+**Layout Paradigm:** Centered, editorial layout with large typographic anchors. Services in a clean 3-column grid. Full-width alternating feature rows.
+
+**Signature Elements:**
+- Frosted glass cards with subtle border
+- Thin horizontal rules as section separators
+- Pill-shaped badges for warranty/guarantee labels
+
+**Interaction Philosophy:** Smooth, effortless transitions. Everything feels frictionless and premium.
+
+**Animation:** Fade-in with slight upward drift (20px). Staggered children with 80ms delay. Hover: subtle scale(1.02) on cards.
+
+**Typography System:** "SF Pro Display" fallback to "Inter" for headings, "Inter" for body — clean, legible, familiar to Apple users.
+</idea>
+<probability>0.07</probability>
+</response>
+
+<response>
+<idea>
+**Design Movement:** Dark Techwear / Cyberpunk Workshop
+**Core Principles:**
+- Deep dark backgrounds with neon cyan/green accents
+- Glitch-inspired micro-animations and scan-line textures
+- Dense information hierarchy with data-terminal aesthetics
+
+**Color Philosophy:** Near-black (#0D0F14) background, neon cyan (#00E5FF) primary accent, muted green (#39FF14) secondary — feels like a high-tech repair lab.
+
+**Layout Paradigm:** Left-heavy asymmetric layout with a persistent vertical accent stripe. Services displayed as terminal-style cards with monospace labels.
+
+**Signature Elements:**
+- Scan-line overlay texture on hero
+- Glowing border effects on hover
+- Terminal-style typing animation for tagline
+
+**Interaction Philosophy:** Interactions feel like interfacing with a machine — precise, immediate, with visual feedback.
+
+**Animation:** Typing cursor animation for hero text. Cards slide in from left with 0 opacity. Glowing pulse on CTA buttons.
+
+**Typography System:** "Orbitron" for display headings (futuristic), "JetBrains Mono" for data labels, "Nunito" for readable body text.
+</idea>
+<probability>0.06</probability>
+</response>
+
+## Selected Approach: **Premium Apple-Adjacent Minimalism**
+
+Clean, trustworthy, and immediately familiar to iPhone users. The design mirrors Apple's own aesthetic language to build confidence, while the electric-blue accents and frosted glass elements add a modern, premium feel.
